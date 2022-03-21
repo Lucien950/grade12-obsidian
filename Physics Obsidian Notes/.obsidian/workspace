@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "204f844fc105d552",
+    "type": "split",
+    "children": [
+      {
+        "id": "008119799a0e5bb4",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f78e8c7d0cf38e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "90733a4e939cc76b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd001bd853f9c1fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "40e8173ac94991f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "permissivity",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340
+  },
+  "right": {
+    "id": "ba6eec814785dd7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6460596c5c2715fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daa35fa6191c09bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "008119799a0e5bb4",
+  "lastOpenFiles": [
+    "Electricity and Magnetism/Capacitors.md",
+    "Electricity and Magnetism/Current.md",
+    "Electricity and Magnetism/Circuits.md",
+    "Electricity and Magnetism/Coulomb's Constant.md",
+    "Electricity and Magnetism/Parallel Plates.md",
+    "Electricity and Magnetism/Electrical Energy.md",
+    "Electricity and Magnetism/Charge.md",
+    "Electricity and Magnetism/Electron Volt.md",
+    "Fundementals/Energy.md",
+    "Electricity and Magnetism/Voltage and Electric Potential.md"
+  ]
+}
