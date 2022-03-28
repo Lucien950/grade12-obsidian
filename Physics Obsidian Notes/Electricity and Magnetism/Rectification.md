@@ -1,5 +1,5 @@
 # Rectification
-> The conversion of AC power to DC power
+> The conversion of [[AC Power]] to DC power
 - Uses [[Diodes]] primarily
 ## Half Wave Rectification
 - Achieved with single diode

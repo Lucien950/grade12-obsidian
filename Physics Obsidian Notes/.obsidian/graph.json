@@ -27,18 +27,32 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:Mechanics",
+      "color": {
+        "a": 1,
+        "rgb": 5405920
+      }
+    },
+    {
+      "query": "path:Waves",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.675,
+  "lineSizeMultiplier": 2.17083333333333,
   "collapse-forces": false,
-  "centerStrength": 0.342696629213483,
-  "repelStrength": 7.64044943820225,
-  "linkStrength": 0.258426966292135,
-  "linkDistance": 30,
-  "scale": 0.7514342322277655,
-  "close": false
+  "centerStrength": 0.672619047619048,
+  "repelStrength": 11.9047619047619,
+  "linkStrength": 0.976190476190476,
+  "linkDistance": 97,
+  "scale": 0.6949045533111132,
+  "close": true
 }

@@ -1,5 +1,5 @@
 # Transformer
-> Way to change the voltage of AC power
+> Way to change the [[Voltage and Electric Potential]] of [[AC power]]
 - Step up good because
 	- Voltage high, current low
 	- Current low, power lost due to resistance low

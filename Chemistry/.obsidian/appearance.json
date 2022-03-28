@@ -1,10 +1,9 @@
 {
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "imagecenter",
-    "highlights",
-    "headings",
     "equations",
-    "checkbox"
+    "headings",
+    "highlights",
+    "imagecenter"
   ]
 }
