@@ -41,18 +41,25 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:\"Thermal + Gas\"",
+      "color": {
+        "a": 1,
+        "rgb": 11424480
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.675,
-  "lineSizeMultiplier": 2.17083333333333,
+  "nodeSizeMultiplier": 1.12083333333333,
+  "lineSizeMultiplier": 2.40416666666667,
   "collapse-forces": false,
-  "centerStrength": 0.672619047619048,
-  "repelStrength": 11.9047619047619,
-  "linkStrength": 0.976190476190476,
+  "centerStrength": 0.564102564102564,
+  "repelStrength": 12.8571428571429,
+  "linkStrength": 1,
   "linkDistance": 97,
-  "scale": 0.6949045533111132,
+  "scale": 0.4060731170019438,
   "close": true
 }

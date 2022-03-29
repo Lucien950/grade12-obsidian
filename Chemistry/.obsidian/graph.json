@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:\"Atoms and Periodicity\"",
+      "color": {
+        "a": 1,
+        "rgb": 5427424
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 8.76404494382023,
   "linkStrength": 0.97752808988764,
   "linkDistance": 99,
-  "scale": 0.7132754626224447,
-  "close": false
+  "scale": 0.8531608603840967,
+  "close": true
 }

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2788d31a8c2f6f4e",
+        "id": "95b001293768dca7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mechanics/General Tips.md",
+            "file": "Waves/General Waves.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/General Tips.md",
+                "file": "Waves/General Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 451,
     "collapsed": true
   },
-  "active": "2788d31a8c2f6f4e",
+  "active": "95b001293768dca7",
   "lastOpenFiles": [
-    "Mechanics/General Tips.md",
-    "Mechanics/Relative Motion.md",
-    "Waves/Double Slit Diffraction.md",
-    "Waves/Simple Harmonic Motion.md",
-    "Waves/Double Slit.md",
+    "Waves/General Waves.md",
     "Waves/Wavelength.md",
-    "Waves/Single Slit Diffraction.md",
     "Waves/Period.md",
+    "Waves/Wave Speed.md",
+    "Waves/Simple Harmonic Motion.md",
     "Waves/Frequency.md",
-    "Waves/Wave Speed.md"
+    "Mechanics/Energy.md",
+    "Waves/Standing Waves.md",
+    "Mechanics/Relative Motion.md",
+    "Thermal + Gas/Energy Production + Sources.md"
   ]
 }

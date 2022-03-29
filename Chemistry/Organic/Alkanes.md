@@ -11,11 +11,12 @@ $$C_nH_{2n+2}$$
 ## Branches
 ---
 - Use the [[Number Names]] to name the subcomponent
-- Subcomponent ends with "-yl"
+- Subcomponent ends with **"-yl"**
 - Get number, add name, prepend to alkane name
 - IF APPEAR TWICE, both number location with comma seperation
 	- USE STANDARD PREFIXES ON component name!!! (very weird and implied)
 - IF MULTIPLE COMPONENTS, seperate with dash
+- ALPHABETICAL ORDER (not including standard prefixes)
 - E.x. 2-methyl pentane 
 ![[Pasted image 20220324151412.png]]
 
