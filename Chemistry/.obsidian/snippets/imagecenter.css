@@ -3,7 +3,7 @@
     background-color:white
 }
 
-.markdown-source-view.mod-cm6 .cm-content > * {
+.markdown-source-view.mod-cm6 .cm-content > .image-embed img{
     display:block !important;
     margin-left: auto !important;
     margin-right: auto !important;

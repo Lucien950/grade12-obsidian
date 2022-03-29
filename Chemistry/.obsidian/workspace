@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organic/Alkanes.md",
+            "file": "Atoms and Periodicity/Periodic.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Kinetic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organic/Alkanes.md",
+                "file": "Atoms and Periodicity/Periodic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,15 @@
   },
   "active": "5a8a67293aea22ea",
   "lastOpenFiles": [
-    "Organic/Alkanes.md",
-    "Organic/Condensed Structural Formulas.md",
-    "Organic/Line Diagrams.md",
-    "Organic/Assets/Pasted image 20220324150938.png",
-    "Organic/Structural Isomers.md",
-    "Organic/Number Names.md",
-    "Organic/Organic General Notes.md"
+    "Atoms and Periodicity/Periodic.md",
+    "Atoms and Periodicity/Periodic Trends.md",
+    "Atoms and Periodicity/Orbitals.md",
+    "Atoms and Periodicity/Spectroscopy.md",
+    "Atoms and Periodicity/Assets/Pasted image 20220329002711.png",
+    "Atoms and Periodicity/Assets/Pasted image 20220329002509.png",
+    "Atoms and Periodicity/Bohr and Quantum Energy.md",
+    "Atoms and Periodicity/Light and Quantum.md",
+    "Atoms and Periodicity/Assets/Pasted image 20220329002032.png",
+    "Atoms and Periodicity/Average Atomic Mass.md"
   ]
 }
