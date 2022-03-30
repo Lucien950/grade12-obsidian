@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Waves/General Waves.md",
+            "file": "Waves/Doppler.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Waves/General Waves.md",
+                "file": "Waves/Doppler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "95b001293768dca7",
   "lastOpenFiles": [
+    "Waves/Doppler.md",
+    "Waves/Simple Harmonic Motion.md",
     "Waves/General Waves.md",
     "Waves/Wavelength.md",
     "Waves/Period.md",
     "Waves/Wave Speed.md",
-    "Waves/Simple Harmonic Motion.md",
     "Waves/Frequency.md",
     "Mechanics/Energy.md",
     "Waves/Standing Waves.md",
-    "Mechanics/Relative Motion.md",
-    "Thermal + Gas/Energy Production + Sources.md"
+    "Mechanics/Relative Motion.md"
   ]
 }
