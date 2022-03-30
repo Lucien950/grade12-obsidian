@@ -1,6 +1,6 @@
 # Halogenoalkanes
 ---
-> Halogens on Organic Compounds
+> Halogens on [[Alkanes]]
 - 1,3-dichloro-2-fluoro-2-methylbutane
 ![[Pasted image 20220329125447.png]]
 ## Classifications

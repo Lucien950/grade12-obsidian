@@ -1,6 +1,6 @@
 # Activity Series
 ---
-> Determines how likely [[Reactions]] will occur
+> Determines how likely [[Grade 10 Review/Reactions]] will occur
 - Found in data booklet
 - Higher = looses electrons
 - Lower = gains electrons

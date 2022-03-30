@@ -1,3 +1,3 @@
 # Chemical Equations
 ---
-- Used to describe [[Reactions]]
+- Used to describe [[Grade 10 Review/Reactions]]

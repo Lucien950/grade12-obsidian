@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5a8a67293aea22ea",
+        "id": "f4cf5c8fd61c4ce0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organic/Saturation.md",
+            "file": "Organic/Nitrogen Carbon Chains/Nitriles.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sat",
+                "query": "substitution",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organic/Saturation.md",
+                "file": "Organic/Nitrogen Carbon Chains/Nitriles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "5a8a67293aea22ea",
+  "active": "f4cf5c8fd61c4ce0",
   "lastOpenFiles": [
-    "Organic/Saturation.md",
-    "Organic/Alkynes.md",
-    "Organic/Alkenes.md",
-    "Organic/Configurational Isomers.md",
-    "Organic/Assets/Pasted image 20220329144334.png",
-    "Organic/Isomers.md",
-    "Organic/Halogenoalkanes.md",
-    "Organic/Alkanes.md",
-    "Organic/Naming Benzene.md",
-    "Organic/Benzene.md"
+    "Organic/Nitrogen Carbon Chains/Nitriles.md",
+    "Organic/Nitrogen Carbon Chains/Amines.md",
+    "Organic/Nitrogen Carbon Chains/Amides.md",
+    "Organic/Oxygen Carbon Chains/Ketones + Aldehydes.md",
+    "Organic/Oxygen Carbon Chains/Ethers.md",
+    "Organic/Oxygen Carbon Chains/Ketones+Aldehydes.md",
+    "Organic/Oxygen Carbon Chains/Oxygen Carbon Chains.md",
+    "Atoms and Periodicity/Average Atomic Mass.md",
+    "Organic/Reactions/Reactions of Unsaturated Hydrocarbons.md",
+    "Organic/Saturation.md"
   ]
 }

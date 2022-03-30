@@ -5,12 +5,12 @@
 ## General Formula
 $$C_nH_{2n+2}$$
 ## Naming
-- Use [[Number Names]] to get the prefix
+- Use [[Number Prefixes]] to get the prefix
 - Add "-ane" at the end
 - E.x. 4 carbons = butane
 ## Branches
 ---
-- Use the [[Number Names]] to name the subcomponent
+- Use the [[Number Prefixes]] to name the subcomponent
 - Subcomponent ends with **"-yl"**
 - Get number, add name, prepend to alkane name
 - IF APPEAR TWICE, both number location with comma seperation

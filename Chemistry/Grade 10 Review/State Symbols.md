@@ -1,6 +1,6 @@
 # State Symbols
 ---
-> Represent the state of a given atom in [[Reactions]]
+> Represent the state of a given atom in [[Grade 10 Review/Reactions]]
 $$X_{(state)}$$
 ## States
 - Gas $(g)$
