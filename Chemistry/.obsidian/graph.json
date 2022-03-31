@@ -34,18 +34,25 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path:\"Lab Technique\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.815730337078652,
-  "lineSizeMultiplier": 2.55,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.60769230769231,
+  "lineSizeMultiplier": 3.15726495726496,
   "collapse-forces": false,
-  "centerStrength": 0.811965811965812,
-  "repelStrength": 13.1623931623932,
-  "linkStrength": 1,
-  "linkDistance": 134,
-  "scale": 0.7132754626224517,
+  "centerStrength": 0.179775280898876,
+  "repelStrength": 8.54700854700855,
+  "linkStrength": 0.825842696629214,
+  "linkDistance": 98,
+  "scale": 0.27268599173601665,
   "close": false
 }

@@ -2,6 +2,7 @@
 ---
 > also known as **Aromatic Hydrocarbons**
 - Most basic form is **Benzene** $C_6H_6$
+- Special case of [[Cycloalkanes]]
 ![[Pasted image 20220329141401.png]]
 <center>The representations of benzene -> all the atoms, line diagram (old), line diagram (new)</center>
 ## Delocalized Electrons

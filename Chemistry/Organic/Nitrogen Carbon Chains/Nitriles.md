@@ -1,5 +1,5 @@
-555555555555555555555555555555555555555555555555555555555555555555555555555555# Nitriles
-- $C≡N$
+# Nitriles
+- $C≡N$ -> [[Nitrogen Chains]]
 ![[Pasted image 20220330005345.png]]
 - sp hybridized carbon
 - short

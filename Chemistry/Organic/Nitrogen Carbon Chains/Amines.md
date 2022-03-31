@@ -1,6 +1,6 @@
 # Amines
 ---
-- contains $N$!
+- contains $N$! [[Nitrogen Chains]]
 - **Bad Smells**
 - $C-N$ bond is polar
 - High melting/boiling? point (hydrogen bonding with $N$)
