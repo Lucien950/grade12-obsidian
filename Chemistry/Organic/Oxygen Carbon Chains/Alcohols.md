@@ -1,5 +1,4 @@
-TODO
-- Hydration of [[Alkanes]]
+- Hydration of Alkanes
 - Oxidation reaction for other functional groups
 # Alchols
 ---

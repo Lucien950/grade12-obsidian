@@ -1,4 +1,4 @@
-# [[Organic Reactions]] between [[Alkanes]] and [[Cycloalkanes]]
+# [[Organic Reactions]] with [[Alkanes]] and [[Cycloalkanes]]
 ---
 - Alkanes very stable
 	- C-C and C-H bonds very strong, non-polar

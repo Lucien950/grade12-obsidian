@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ea59c8702cf63e19",
+        "id": "c948667441a0923c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Organic/Homologous Series.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 383
   },
   "right": {
     "id": "46af2a55618158af",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Organic/Homologous Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,25 +79,33 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "ea59c8702cf63e19",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 738
   },
-  "active": "ea59c8702cf63e19",
+  "active": "c948667441a0923c",
   "lastOpenFiles": [
-    "Organic/Nitrogen Carbon Chains/Nitrogen Chains.md",
-    "Organic/Assets/Pasted image 20220330233906.png",
-    "Organic/Reactions/Addition Polymers.md",
-    "Organic/Condensed Structural Formulas.md",
-    "Organic/Line Diagrams.md",
-    "Organic/Volatility and Boiling Point.md",
-    "Organic/Alkanes.md",
+    "Organic/Homologous Series.md",
     "Organic/Reactions/Formation of Esters.md",
+    "Organic/Reactions/Reduction.md",
+    "Organic/Reactions/Oxidization Reactions w-Alcohols.md",
     "Organic/Reactions/Substitution, Halogenoalkanes, and Arenes.md",
-    "Organic/Reactions/Reduction.md"
+    "Organic/Oxygen Carbon Chains/Esters.md",
+    "Organic/Reactions/Reactions of Alkene.md",
+    "Organic/Halogenoalkanes.md",
+    "Organic/Oxygen Carbon Chains/Alcohols.md",
+    "Organic/Nitrogen Carbon Chains/Amides.md"
   ]
 }

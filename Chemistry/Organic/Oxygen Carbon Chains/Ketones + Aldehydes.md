@@ -6,5 +6,5 @@
 ## Aldehydes
 - Subset of ketones where $O$ molecule is at the ends
 ## Naming
-- Ketone => alkyl + position + "one" 
-- Aldehyde => alkyl + "al"
+**- Ketone => alkyl + position + "one"** 
+**- Aldehyde => alkyl + "al"**

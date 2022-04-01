@@ -1,10 +1,10 @@
-# [[Organic Reactions]] of Unsaturated Hydrocarbons
+# [[Organic Reactions]] of [[Alkenes]]
 ---
 ![[Pasted image 20220330200916.png]]
 - Break double bonds in [[Alkenes]] and replace with other molecules
 ## Adding $H_2$
 > **Hydrogenation**
-- $Pd$, $Pt$, $Ni$ used to speed up the reaction
+- **$Pd$, $Pt$, $Ni$ used to speed up the reaction**
 	- Catalytic Hydrogentation
 	- Needs PT Catalyst
 	- Converts [[Alkenes]] to [[Alkanes]]
@@ -20,6 +20,6 @@
 ![[Pasted image 20220330000708.png]]
 ## Addition of $H_2O$
 - Makes [[Alcohols]]
-- Uses Acid Catalyst
+- Uses **Acid Catalyst**
 - Follow [[Markovnikov's Rule]]
 ![[Pasted image 20220330000113.png]]

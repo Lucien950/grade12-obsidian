@@ -4,10 +4,12 @@
 - Can look like adding $O$ or removing $H$
 - Oxidaition requires C in alcohol to be attached to $OH$ and 2 $H$s
 	- Thus, only primary alcohols can react
-- Needs [[Distillation]] and [[Reflux]] 
-- **REACTION CONDITION: has $KCrO_7$ or $KMnO_4$**
-	- Changes the oxidation number of $Cr$ in both atoms
-	- **Changes colour from yellow to green**
+- **REACTION CONDITIONS**
+	- has $KCrO_7$ or $KMnO_4$ (oxidizing agent)
+		- Changes the oxidation number of $Cr$ in both atoms
+	- Needs [[Distillation]] and [[Reflux]]
+	- Excess Alcohol
+- **Changes colour from yellow to green**
 - Makes [[Ketones + Aldehydes]] (only aldehydes,links😢) and [[Carboxilic Acids]]
 ![[Pasted image 20220330214309.png]]
 ## Secondary [[Alcohols]]
